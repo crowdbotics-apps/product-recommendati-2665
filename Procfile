@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT product_recommendati_2665.wsgi:application
